@@ -13,7 +13,7 @@ module.exports = {
         sans: ['Permanent Marker', 'cursive'], // Use 'Permanent Marker' font for sans-serif
       },
       letterSpacing: {
-        widest: '.3em',
+        widest: '.9em',
       },
     },
   },
